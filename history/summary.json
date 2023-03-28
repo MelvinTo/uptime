@@ -42,17 +42,18 @@
     "slug": "hacker-news",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 286,
     "timeDay": 338,
     "timeWeek": 267,
     "timeMonth": 307,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2023-03-27": 0,
+      "2023-03-28": 9,
+      "2023-03-27": 38,
       "2022-07-08": 528
     }
   },
